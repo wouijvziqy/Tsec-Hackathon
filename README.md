@@ -127,3 +127,13 @@
 - **腾讯安全沙龙官网**：[https://zc.tencent.com/salon](https://zc.tencent.com/salon)
 
 - **赛事合作联系方式**：微信Wx62887799
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Yeti-791%2FTsec-Hackathon&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Yeti-791/Tsec-Hackathon&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Yeti-791/Tsec-Hackathon&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Yeti-791/Tsec-Hackathon&type=date&legend=top-left" />
+ </picture>
+</a>
