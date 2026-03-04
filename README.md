@@ -33,13 +33,13 @@
 
 本板块为赛事线上排名前十的优秀团队开源项目仓库导航，涵盖智能渗透Agent的核心设计思路、技术实现与实战方案，是学习智能渗透技术的核心参考资源，排名按赛事最终成绩排序：
 
-|团队名称|核心技术亮点|仓库地址|
+|团队名称|核心技术亮点|仓库名及地址|
 |---|---|---|
 |xjtuHunter|基于状态感知与因果推理的自主渗透测试智能体|[xjtuHunter](https://github.com/xjtuHunter)|
 |BinX|100 Lines，Zero Tuning，Fully AI-Driven|[LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)|
 |Antix|AI原生的进攻性安全基座，重构全流程攻击链基础设施|[ChainReactors/Antix](https://github.com/chainreactors)|
 |NeuroSploit|具备认知能力的渗透智能体，AI自主规划与深度理解|[Neuro-Sploit](https://github.com/Neuro-Sploit)|
-|ai 小分队|AI 渗透的“蜂群思维”|[xbow-competition 项目仓库](https://github.com/m-sec-org/xbow-competition)|
+|ai 小分队|AI 渗透的“蜂群思维”|[xbow-competition](https://github.com/m-sec-org/xbow-competition)|
 |D@wnEdg3|Cruiser: CTF Agent实现探索，实战攻防能力智能化演进|[Cruiser Agent](https://github.com/TJR181/Cruiser_public)|
 |yhy|ChYing Agent：人机协作下的CTF自动化实践|[CHYing-Agent](https://github.com/yhy0/CHYing-agent)|
 |sickhack|finds a way，AI驱动的安全自动化工具研发|[SickHackShark](https://github.com/SickHackPark/SickHackShark)|
