@@ -37,7 +37,7 @@
 |---|---|---|
 |xjtuHunter|基于场景感知的下一代黑盒渗透方案|[xjtuHunter](https://github.com/xjtuHunter)|
 |BinX|基于状态感知与因果推理的自主渗透测试智能体|[LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)|
-|Antix|100行代码，无需调优，完全由人工智能驱动|[ChainReactors/Antix](https://github.com/chainreactors)|
+|Antix|100行代码，无需调优，完全由人工智能驱动|[tinyctfer](https://github.com/chainreactors/tinyctfer)|
 |NeuroSploit|具备认知能力的渗透智能体，AI自主规划与深度理解|[Neuro-Sploit](https://github.com/Neuro-Sploit)|
 |ai 小分队|AI 渗透的“蜂群思维”|[xbow-competition](https://github.com/m-sec-org/xbow-competition)|
 |D@wnEdg3|Cruiser: CTF Agent实现探索，实战攻防能力智能化演进|[Cruiser Agent](https://github.com/TJR181/Cruiser_public)|
